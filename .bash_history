@@ -15,3 +15,6 @@ pip freeze > requirements.txt
 git add .
 git commit -am "flask-hello-world"
 git push origin master
+git add .
+git commit -am "flask-blog"
+git push origin master
